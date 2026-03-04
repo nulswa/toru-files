@@ -2,20 +2,91 @@
 {
 "num": "hello",
 "texto": "« `Saludo con agrado a` »",
-"texto2": "Se saludo a si mismo/a.",
-"gin": ["https://qu.ax/EcRBE.mp4", "https://qu.ax/oARle.mp4", "https://qu.ax/eQXQh.mp4", "https://qu.ax/ddLrC.mp4"]
+"texto2": "Se saludo asi mismo/a.",
+"gin": [ 'https://tenor.com/es-US/view/anime-bye-bye-maki-wave-soredemo-ayumu-wa-yosetekuru-when-will-ayumu-make-his-move-gif-26195508', 'https://tenor.com/es-US/view/anime-guild-receptionist-executioner-alina-unclephuc-gif-6330079631404447443']
 },
 {
 "num": "hug",
 "texto": "« `Esta abrazando a` »",
 "texto2": "Se abraza asi mismo/a.",
-"gin": ["https://telegra.ph/file/0e5b24907be34da0cbe84.mp4", "https://telegra.ph/file/6a3aa01fabb95e3558eec.mp4", "https://telegra.ph/file/6bc3cd10684f036e541ed.mp4", "https://telegra.ph/file/3e443a3363a90906220d8.mp4"]
+"gin": [ 'https://telegra.ph/file/0e5b24907be34da0cbe84.mp4', 'https://telegra.ph/file/6a3aa01fabb95e3558eec.mp4', 'https://telegra.ph/file/6bc3cd10684f036e541ed.mp4', 'https://telegra.ph/file/3e443a3363a90906220d8.mp4']
 },
 {
 "num": "sad",
 "texto": "« `Se puso triste con` »",
 "texto2": "Esta muy triste.",
-"gin": ["https://telegra.ph/file/9c69837650993b40113dc.mp4", "https://telegra.ph/file/071f2b8d26bca81578dd0.mp4", "https://telegra.ph/file/0af82e78c57f7178a333b.mp4", "https://telegra.ph/file/8fb8739072537a63f8aee.mp4"]
+"gin": [ 'https://telegra.ph/file/9c69837650993b40113dc.mp4', 'https://telegra.ph/file/071f2b8d26bca81578dd0.mp4', 'https://telegra.ph/file/0af82e78c57f7178a333b.mp4', 'https://telegra.ph/file/8fb8739072537a63f8aee.mp4']
+},
+{
+"num": "kiss",
+"texto": "« `Se beso con` »",
+"texto2": "Se beso a si mismo/a.",
+"gin": [ 'https://telegra.ph/file/d6ece99b5011aedd359e8.mp4', 'https://telegra.ph/file/d6ece99b5011aedd359e8.mp4', 'https://telegra.ph/file/ba841c699e9e039deadb3.mp4', 'https://telegra.ph/file/ba841c699e9e039deadb3.mp4', 'https://telegra.ph/file/6497758a122357bc5bbb7.mp4', 'https://telegra.ph/file/6497758a122357bc5bbb7.mp4', 'https://telegra.ph/file/8c0f70ed2bfd95a125993.mp4', 'https://telegra.ph/file/8c0f70ed2bfd95a125993.mp4', 'https://telegra.ph/file/826ce3530ab20b15a496d.mp4', 'https://telegra.ph/file/826ce3530ab20b15a496d.mp4', 'https://telegra.ph/file/f66bcaf1effc14e077663.mp4', 'https://telegra.ph/file/f66bcaf1effc14e077663.mp4', 'https://telegra.ph/file/e1dbfc56e4fcdc3896f08.mp4', 'https://telegra.ph/file/e1dbfc56e4fcdc3896f08.mp4', 'https://telegra.ph/file/0fc525a0d735f917fd25b.mp4', 'https://telegra.ph/file/0fc525a0d735f917fd25b.mp4', 'https://telegra.ph/file/68643ac3e0d591b0ede4f.mp4', 'https://telegra.ph/file/68643ac3e0d591b0ede4f.mp4', 'https://telegra.ph/file/af0fe6eb00bd0a8a9e3a0.mp4' ]
+},
+{
+"num": "love",
+"texto": "« `Esta enamorado/a de` »",
+"texto2": "Esta enamorado/a.",
+"gin": [ 'https://telegra.ph/file/f75aed769492814d68016.mp4', 'https://telegra.ph/file/4f24bb58fe580a5e97b0a.mp4', 'https://telegra.ph/file/30206abdcb7b8a4638510.mp4', 'https://telegra.ph/file/ecd7aeae5b2242c660d41.mp4', 'https://telegra.ph/file/6d3ba201bcdd1fd2c1408.mp4', 'https://telegra.ph/file/d5dbdcf845d2739dbe45e.mp4', 'https://telegra.ph/file/c9a529908d4e0b71d7c5a.mp4', 'https://telegra.ph/file/b7bc277ddef1af913827c.mp4', 'https://telegra.ph/file/8b01e180dfb7e98d5a4f8.mp4', 'https://telegra.ph/file/901f13852aa65f9628d96.mp4' ]
+},
+{
+"num": "pat",
+"texto": "« `Esta acariciando a` »",
+"texto2": "Se acaricia asi mismo/a.",
+"gin": [ 'https://telegra.ph/file/f75aed769492814d68016.mp4', 'https://telegra.ph/file/4f24bb58fe580a5e97b0a.mp4', 'https://telegra.ph/file/30206abdcb7b8a4638510.mp4', 'https://telegra.ph/file/ecd7aeae5b2242c660d41.mp4', 'https://telegra.ph/file/6d3ba201bcdd1fd2c1408.mp4', 'https://telegra.ph/file/d5dbdcf845d2739dbe45e.mp4', 'https://telegra.ph/file/c9a529908d4e0b71d7c5a.mp4', 'https://telegra.ph/file/b7bc277ddef1af913827c.mp4', 'https://telegra.ph/file/8b01e180dfb7e98d5a4f8.mp4', 'https://telegra.ph/file/901f13852aa65f9628d96.mp4' ]
+},
+{
+"num": "punch",
+"texto": "« `Golpeo a` »",
+"texto2": "Se pego asi mismo/a.",
+"gin": [ 'https://telegra.ph/file/8e60a6379c1b72e4fbe0f.mp4', 'https://telegra.ph/file/8ac9ca359cac4c8786194.mp4', 'https://telegra.ph/file/cc20935de6993dd391af1.mp4', 'https://telegra.ph/file/9c0bba4c6b71979e56f55.mp4', 'https://telegra.ph/file/5d22649b472e539f27df9.mp4', 'https://telegra.ph/file/804eada656f96a04ebae8.mp4', 'https://telegra.ph/file/3a2ef7a12eecbb6d6df53.mp4', 'https://telegra.ph/file/c4c27701496fec28d6f8a.mp4', 'https://telegra.ph/file/c8e5a210a3a34e23391ee.mp4', 'https://telegra.ph/file/70bac5a760539efad5aad.mp4' ]
+},
+{
+"num": "scared",
+"texto": "« `Esta asustado/a de` »",
+"texto2": "Esta asustado/a.",
+"gin": [ 'https://telegra.ph/file/9c1e963fa4d8269fb17a7.mp4', 'https://telegra.ph/file/0c802b4fa616aaf1da229.mp4', 'https://telegra.ph/file/d0b166d9a363765e51657.mp4', 'https://telegra.ph/file/eae6dd9d45e45fe3a95ab.mp4', 'https://telegra.ph/file/1785e535a4463c2a337c5.mp4', 'https://telegra.ph/file/c1673b418bc61db1e51a0.mp4', 'https://telegra.ph/file/9774e1d74c3abf083ae01.mp4', 'https://telegra.ph/file/dcde646a58d8e9bf44867.mp4' ]
+},
+{
+"num": "shy",
+"texto": "« `Esta timido/a por` »",
+"texto2": "Esta timido/a.",
+"gin": [ 'https://telegra.ph/file/a9ccfa5013d58fad2e677.mp4', 'https://telegra.ph/file/2cd355afa143095b97890.mp4', 'https://telegra.ph/file/362c8566dc9367a5a473d.mp4', 'https://telegra.ph/file/362c8566dc9367a5a473d.mp4', 'https://telegra.ph/file/4f9323ca22e126b9d275c.mp4', 'https://telegra.ph/file/51b688e0c5295bc37ca92.mp4', 'https://telegra.ph/file/dfe74d7eee02c170f6f55.mp4', 'https://telegra.ph/file/697719af0e6f3baec4b2f.mp4', 'https://telegra.ph/file/89e1e1e44010975268b38.mp4', 'https://telegra.ph/file/654313ad5a3e8b43fc535.mp4' ]
+},
+{
+"num": "slap",
+"texto": "« `Bofeteo a` »",
+"texto2": "Se bofetea asi mismo/a.",
+"gin": [ 'https://telegra.ph/file/3ba192c3806b097632d3f.mp4', 'https://telegra.ph/file/58b33c082a81f761bbee8.mp4', 'https://telegra.ph/file/da5011a1c504946832c81.mp4', 'https://telegra.ph/file/20ac5be925e6cd48f549f.mp4', 'https://telegra.ph/file/a00bc137b0beeec056b04.mp4', 'https://telegra.ph/file/080f08d0faa15119621fe.mp4', 'https://telegra.ph/file/eb0b010b2f249dd189d06.mp4', 'https://telegra.ph/file/734cb1e4416d80a299dac.mp4', 'https://telegra.ph/file/fc494a26b4e46c9b147d2.mp4' ]
+},
+{
+"num": "sleep",
+"texto": "« `Esta durmiendo con` »",
+"texto2": "Esta durmiendo.",
+"gin": [ 'https://telegra.ph/file/0684477ff198a678d4821.mp4', 'https://telegra.ph/file/583b7a7322fd6722751b5.mp4', 'https://telegra.ph/file/e6ff46f4796c57f2235bd.mp4', 'https://telegra.ph/file/06b4469cd5974cf4e28ff.mp4', 'https://telegra.ph/file/9213f74b91f8a96c43922.mp4', 'https://telegra.ph/file/b93da0c01981f17c05858.mp4', 'https://telegra.ph/file/8e0b0fe1d653d6956608a.mp4', 'https://telegra.ph/file/3b091f28e5f52bc774449.mp4', 'https://telegra.ph/file/7c795529b38d1a93395f6.mp4', 'https://telegra.ph/file/6b8e6cc26de052d4018ba.mp4' ]
+},
+{
+"num": "lick",
+"texto": "« `Lamio a` »",
+"texto2": "Se lame asi mismo/a.",
+"gin": [ 'https://telegra.ph/file/0ce171b163a669ae9819d.mp4', 'https://telegra.ph/file/b80fdfb8551b66f77b67e.mp4', 'https://telegra.ph/file/f87d442b78389d4ed5be0.mp4', 'https://telegra.ph/file/74828e36617c16421598f.mp4', 'https://telegra.ph/file/093cbdd990220446d8920.mp4', 'https://telegra.ph/file/570944813cab1c9dddd03.mp4', 'https://telegra.ph/file/a0a86516033a906b55220.mp4', 'https://telegra.ph/file/02ec493403335917d1ece.mp4', 'https://telegra.ph/file/5042d5f627a3500e2fe8e.mp4' ]
+},
+{
+"num": "angry",
+"texto": "« `Esta enojado/a con` »",
+"texto2": "Esta enojado/a.",
+"gin": [ 'https://files.catbox.moe/2aedd3.mp4', 'https://files.catbox.moe/fqf4ey.mp4', 'https://files.catbox.moe/v7ldgq.mp4', 'https://files.catbox.moe/uedd7l.mp4', 'https://files.catbox.moe/5stubg.mp4', 'https://files.catbox.moe/phaft3.mp4' ]
+},
+{
+"num": "happy",
+"texto": "« `Esta feliz por` »",
+"texto2": "Esta feliz.",
+"gin": [ 'https://files.catbox.moe/92bs9b.mp4', 'https://files.catbox.moe/d56pfs.mp4', 'https://files.catbox.moe/kh6ii0.mp4', 'https://files.catbox.moe/gmya70.mp4', 'https://files.catbox.moe/6mjruj.mp4', 'https://files.catbox.moe/kgggyv.mp4', 'https://files.catbox.moe/84d71w.mp4', 'https://files.catbox.moe/hlifrw.mp4' ]
+},
+{
+"num": "pout",
+"texto": "« `Le esta haciendo pucheros a` »",
+"texto2": "Esta haciendo pucheros.",
+"gin": [ 'https://telegra.ph/file/e2a25adcb74689a58bcc6.mp4', 'https://telegra.ph/file/5239f6f8837383fa5bf2d.mp4', 'https://telegra.ph/file/63564769ec715d3b6379d.mp4', 'https://telegra.ph/file/06f7458e3a6a19deb5173.mp4', 'https://telegra.ph/file/cdd5e7db98e1d3a46231a.mp4', 'https://telegra.ph/file/070e2c38c9569a764cc10.mp4', 'https://telegra.ph/file/c1834a34cd0edfd2bdbe1.mp4', 'https://telegra.ph/file/4ceafdd813e727548cb2f.mp4', 'https://telegra.ph/file/7aa2790c3eba5b27416ce.mp4', 'https://telegra.ph/file/ec2d25e70b165a19e7ef7.mp4' ]
 }
 ]
-
